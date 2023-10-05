@@ -1,4 +1,5 @@
-### Hi there 👋
+## Oi pessoal! 👋
+Meu nome é Sthefany, e estou super empolgada com a programação web, principalmente na área de desenvolvimento back-end. Estou sempre em busca de desafios para criar soluções web incríveis e eficientes. Se quiser trocar uma ideia ou se juntar em projetos, estou aqui! 💻🌐😊
 
 ## 🚀 **Tech Stack**
 
