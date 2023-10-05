@@ -2,10 +2,10 @@
 
 ## 💻 **Tech Stack**
 
-### :floppy_disk: Banco de Dados:
+### 🖥️ Banco de Dados:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### :globe_with_meridians: Desenvolvimento Web:
+### 🌐 Desenvolvimento Web
 ### _Frameworks_
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
