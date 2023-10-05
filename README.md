@@ -22,7 +22,8 @@ Meu nome é Sthefany, e estou super empolgada com a programação web, principal
 ### :octocat: Controle de Versão e Colaboração:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
+### :mortar_board: Plataformas de Ensino
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
 
