@@ -27,7 +27,7 @@ Meu nome é Sthefany, e estou super empolgada com a programação web, principal
 
 ## 📊 **Git Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyoliver&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyoliver&layout=compact&theme=tokyonight)
 
 
 
