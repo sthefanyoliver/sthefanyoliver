@@ -25,7 +25,7 @@ Meu nome é Sthefany, e estou super empolgada com a programação web, principal
 ### :mortar_board: Plataformas de Ensino
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-### 📊 Git Stats
+### 📊 **Git Stats**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanyoliver&layout=compact)
 
